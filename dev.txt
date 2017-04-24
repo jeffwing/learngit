@@ -1,1 +1,8 @@
 abc  this is master
+
+function test {
+	var i = 0;
+	i++;
+	i--;
+	console.log(i);
+}
