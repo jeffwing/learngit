@@ -1,7 +1,7 @@
 abc  this is master
 
 function test {
-	var i = 0;
+	var i = 1; // modify by dev
 	i++;
 	i**;
 	console.log(i);
